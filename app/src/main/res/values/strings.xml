@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">sdcard-sample-android</string>
+    <string name="request_permission_button">Request Permisson Button</string>
 </resources>
